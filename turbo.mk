@@ -81,6 +81,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     nfc_nci.sirius
 
+# Gello
+PRODUCT_PACKAGES += \
+    Gello
 
 PRODUCT_AAPT_CONFIG := large
 PRODUCT_AAPT_PREBUILT_DPI := xxhdpi xhdpi hdpi
